@@ -23,9 +23,8 @@
 
 ## Jet Pack Install
   - Jetpack4.3以上はopencv4にアップグレードされており、Darknet/Yolov3インストール時にopencv関連エラーが発生する。
-    現状、解決策が見当たらないため、Jetpack4.2.3を使用する。
-    - [参考](https://qiita.com/nabion/items/8ae33dcaa336e67990b1)
-  - [JetPack Archive](https://developer.nvidia.com/embedded/jetpack-archive)
+    現状、解決策が見当たらないため、Jetpack4.2.3を使用する。[参考](https://qiita.com/nabion/items/8ae33dcaa336e67990b1)
+    [JetPack Archive](https://developer.nvidia.com/embedded/jetpack-archive)
   
   - 日本語インストールは、不具合の起因となる報告があるので、デフォルト(English)版のままとする。キーボードは日本語版選択。
   
