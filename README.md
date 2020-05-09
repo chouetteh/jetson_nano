@@ -42,7 +42,14 @@
  - クロックパフォーマンス確認
  
  `sudo jetson_clocks --show`
+ - CPU/GPU使用率確認ツール
+ 
+ ```
+ sudo apt install python3-pip
+ sudo -H pip3 install jetson-stats
+ sudo jtop
+ ```
  
 ## 参考サイト
 
-- 
+- [即できる！初めてのJetson nanoでAI入門：DeepStream編](https://ai-coordinator.jp/jetson-nano-deepstream)
